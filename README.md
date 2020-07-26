@@ -1,3 +1,3 @@
 # kamalIndustries
 
-# THIS IS THE SITE MADE FOR DEMONSTRATION OF WEB DEVELOPMENT SKILLS BY AMOL TIVAREKAR.
+This is the site made for demonstration of web development skills by Amol Tivarekar.
