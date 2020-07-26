@@ -1281,6 +1281,9 @@ h1.main,p.demos
 	.letter{
 		padding: 15px;
 	}
+	#contents{
+		min-height: 1260px;
+	}
 }
 
 </style>
