@@ -429,7 +429,6 @@ p a:hover {
 	list-style: none;
 	margin: 0;
 	padding: 0;
-	background-color: white;
 }
 .sidebar ul li {
 	background-position: left bottom;
@@ -438,7 +437,8 @@ p a:hover {
 	min-height: 36px;
 	width: 280px;
 	border-bottom: 1px solid #f1f1f1;
-	padding: 5px 0px 5px 5px;	
+	padding: 5px 0px 5px 5px;
+	background-color: white;
 }
 .sidebar ul li > a span.box {
 	float: left;
@@ -459,6 +459,7 @@ p a:hover {
 .sidebar .contact li {
 	padding-left: 0;
 	border-bottom: 1px solid #50643c;
+	background-color: transparent !important;
 }
 .sidebar .contact li p {
 	color:#50643c;
@@ -1282,7 +1283,7 @@ h1.main,p.demos
 		padding: 15px;
 	}
 	#contents{
-		min-height: 1400px;
+		min-height: 1350px;
 	}
 }
 
